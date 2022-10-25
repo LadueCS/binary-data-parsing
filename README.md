@@ -14,7 +14,10 @@ To get started, clone this repository (if you have Gitpod that's easiest) and be
 # Boilerplate Parsing Code  
 
 ## C++  
+![C++ Boilerplate](https://user-images.githubusercontent.com/67982792/197678887-be74e984-acb4-4b95-b37d-be71e838c729.png)
 
 ## Python  
+![Python Boilerplate](https://user-images.githubusercontent.com/67982792/197678898-61f99162-ee78-473d-b300-2760b45a8c3c.png)
 
 ## Java  
+![Java Boilerplate](https://user-images.githubusercontent.com/67982792/197678905-d0b7e758-04c1-490b-8fb0-728117275adc.png)
