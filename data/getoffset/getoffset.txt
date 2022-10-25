@@ -1,0 +1,1 @@
+In this activity, you are provided with a file with a bunch of random data but there's a provided offset and some data at that offset that you must retrieve successfully using code!
